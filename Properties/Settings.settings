@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="iSpyApplication.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="BYSECVMS" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.bysec.sk/</Value>
+    </Setting>
+    <Setting Name="iSpy_Reporting_Reporting" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://www.bysec.sk/</Value>
+    </Setting>
+    <Setting Name="Secure_Your_Life" Type="System.String" Scope="Application">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
