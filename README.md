@@ -1,37 +1,21 @@
 # Overview
 
-https://www.ispyconnect.com/
+https://www.bysec.sk
 
 iSpy is the world’s most popular open source video surveillance application. It's compatible with the the vast majority of consumer webcams and IP cameras. With more than 2 million users worldwide, iSpy works with more cameras and devices than anything else on the market.
 
-![iSpyInterface](https://www.ispyconnect.com/content/ebook/ispysurface.jpg)
 
-## About iSpy
+## About IQ VMS
 
-Started back in 2007 the software has continually evolved and improved to become a robust, feature rich solution.
-
-The number one use of iSpy is small business security, but home monitoring, neighborhood watch, checking in on the kids, desktop monitoring, nanny-watch and mobile access through a iSpyConnect.com are valued features.
-
-Facial recognition and detection of changes in lighting and audio offer the subtleties that set the software apart from competitors.
-
-Getting started with iSpy is easy: all you need is a webcam or IP camera connected to your computer or network.
-
-iSpy connects to the camera and shows the live view. You can then define specific areas of the video that iSpy should watch for movement, and set a threshold value for the amount of motion that would trigger automatic recording. iSpy can also operate in always-recording or manual-recording modes and supports scheduling and remote access (with an iSpyConnect subscription)
-
-iSpy was designed to provide a low-cost alternative to expensive surveillance systems. It has become a highly scalable application that can be tailored to record and take actions on specific incidents as defined by the user either locally or remotely.
-
-## Installing iSpy
-
-https://www.ispyconnect.com/download.aspx
-
-## Compiling iSpy
-The 32 bit and 64 bit solutions require **Visual Studio 2015** to build.
-
-For building the Setup project [Wix Toolset 3.10+](http://wixtoolset.org/) must be installed. (Make sure you restart Visual Studio after installing)
-
-To build the full installer compile the Bootstrap32 or Bootstrap64 project
-If there is an error finding a merge module building the setup project then the merge modules are available in the Merge Modules directory
+Made a VMS for video surveillance cameras. For color recognition when moving. In a certain area of the screen. Area Zones, Color Tracking, Face Detection, People detection, Movement Detection, License Plate car detection. For Onvif, RTSP protocols, you can also add regular USB Cameras is a complete application for video surveillance camera management and object protection with a professional tool.
 
 
-If you have dll reference errors when building you may need to go into the DLLS folder and right-click - unblock the DLLs. (Windows Security issue)
 
+
+## Problem or Opportunity
+
+It is a professional tool for the security of objects or control over workers, for example. 
+T-shirt color recognition can be used in enterprises to control workers. (Factories or supermarkets) 
+As well as license plate recognition.
+-------------------------------------------------- ----------------------
+There are a lot of ideas for implementation, because this is a great contribution to the development of artificial intelligence, because the project created entire neural networks to train them to detect certain objects.
