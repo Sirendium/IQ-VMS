@@ -2,8 +2,9 @@
 
 https://www.bysec.sk
 
-iSpy is the world’s most popular open source video surveillance application. It's compatible with the the vast majority of consumer webcams and IP cameras. With more than 2 million users worldwide, iSpy works with more cameras and devices than anything else on the market.
+IQ VMS is the world’s most popular open source video surveillance application. It's compatible with the the vast majority of consumer webcams and IP cameras. With more than 2 million users worldwide, iSpy works with more cameras and devices than anything else on the market.
 
+![alt text](https://github.com/Sirendium/IQ-VMS/blob/master/fdfdf.png?raw=true)
 
 ## About IQ VMS
 
