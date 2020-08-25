@@ -1,5 +1,5 @@
-iSpy
-http://www.ispyconnect.com
+BYSEC
+www.bysec.sk
 ==================================
 
 License agreement
@@ -10,6 +10,6 @@ next web page: http://www.gnu.org/licenses/lgpl.html
 
 
 The camera connection database is copyright protected. No part of it may be publicly republished without our express permission.
-Copyright © DeveloperInABox, 2016
+Copyright Â© DeveloperInABox, 2016
 
 
